@@ -1,0 +1,12 @@
+.dogs p a {
+  font-weight: bold;
+}
+a {
+  font-weight: normal;
+}
+.cats p {
+  background-color: coral;
+}
+.dogs p {
+  background-color: steelblue;
+}
